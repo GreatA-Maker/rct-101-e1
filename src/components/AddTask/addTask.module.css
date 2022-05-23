@@ -1,3 +1,16 @@
-.addTask {
-  /* Sample */
+.todoForm > input {
+	font-size: 15px;
+	padding: 5px;
+	width: 200px;
+	margin-top: 20px;
+}
+
+.todoForm > button {
+	width: 40px;
+	padding: 3px 10px;
+	margin-left: 20px;
+	font-weight: bold;
+	font-size: 25px;
+	border-radius: 50%;
+	cursor: pointer;
 }

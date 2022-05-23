@@ -1,7 +1,11 @@
-.tasks {
-  /* sample */
+.tasks > li {
+	list-style-type: none;
+	padding: 10px 20px;
 }
 
-.empty {
-  /* sample */
+.flex {
+	display: flex;
+	width: 400px;
+	margin: auto;
+	justify-content: space-between;
 }

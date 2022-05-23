@@ -1,3 +1,7 @@
 .counter {
-  /* TODO */
+	font-size: 12px;
+}
+
+span {
+	margin: 0px 5px;
 }
